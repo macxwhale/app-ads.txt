@@ -6,7 +6,7 @@
       "**/.*",
       "**/node_modules/**"
     ],
-    "redirect": [
+    "redirects": [
       {
         "source": "/",
         "destination": "/app-ads.txt",
